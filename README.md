@@ -86,7 +86,6 @@ Each folder or file will correspond to lessons, exercises, or mini-projects I bu
 ### 🧰 **Optional Tools to Use**
 - **Go Playground**: [https://play.golang.org](https://play.golang.org) – test code online
 - **VS Code with Go extension** – nice coding environment
-- **Exercism Go Track**: [https://exercism.io/tracks/go](https://exercism.io/tracks/go) – fun challenges
 
 ---
 
